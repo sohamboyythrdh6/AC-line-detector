@@ -1,4 +1,7 @@
+
 i made a ac line detector from some bc547 transistor a buzzer some . I build this project for safely drill wall without puncher any live wire to prevent shock circuits and also this is very cheep
+
+<img width="366" height="259" alt="Screenshot 2026-04-11 124240" src="https://github.com/user-attachments/assets/7d55524f-8902-4ac1-91f1-851e4b796973" />
 
 ------------------------------------------------------------
 | Component | Purpose | Qty | Cost (USD) | Distributor |
