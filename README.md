@@ -1,15 +1,15 @@
 i made a ac line detector from some bc547 transistor a buzzer some . I build this project for safely drill wall without puncher any live wire to prevent shock circuits and also this is very cheep
 
 ------------------------------------------------------------
-name,quantity
-BC547 (NPN transistor),3
-5mm LED (any colour),1
-Active Buzzer,1
-1MΩ resistor  1/4W,1
-330Ω resistor,1
-BATTERY HOLDER 9V PC PIN,1
-9v battery,1
-3-Pin DIP Mini Slide Switch Through-Hole PCB Slide Button,1
+name,quantity,
+BC547 (NPN transistor),3,
+5mm LED (any colour),1,
+Active Buzzer,1,
+1MΩ resistor  1/4W,1,
+330Ω resistor,1,
+BATTERY HOLDER 9V PC PIN,1,
+9v battery,1,
+3-Pin DIP Mini Slide Switch Through-Hole PCB Slide Button,1,
 -------------------------------------------------------------
 
 
