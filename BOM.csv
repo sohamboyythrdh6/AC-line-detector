@@ -1,9 +1,9 @@
-name,quantity
-BC547 (NPN transistor),3
-5mm LED (any colour),1
-Active Buzzer,1
-1MΩ resistor  1/4W,1
-330Ω resistor,1
-BATTERY HOLDER 9V PC PIN,1
-9v battery,1
-3-Pin DIP Mini Slide Switch Through-Hole PCB Slide Button,1
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"battery case","connect the battery with circut",1,0.48,"https://makerbazar.in/products/1x9v-9volt-battery-case-holder-battery-holder-box-with-tuck-in-cover-on-off-switch-with-wire?variant=43201957986544","MAKER BAZAR"
+"Battery 9V","Provides secure connection between battery and circuit",1,0.24,"https://makerbazar.in/products/battery-9-volt?variant=48251215216880","MAKER BAZAR"
+"Active Buzzer","Provides audible alert when AC voltage is detected",1,0.13,"https://makerbazar.in/products/small-active-buzzer?variant=40319276384407","MAKR BAZAR"
+"5mm LED","Provides visual indication when AC voltage is detected",1,0.26,"https://makerbazar.in/products/dip-led-2x5x7mm-square-diffused-type?variant=42137774817520","MAKE RBAZAR"
+"220Ω Resistor","Limits current through LED to prevent damage and control brightness",1,0.16,"https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1k-to-99kohm","MAKER BAZAR"
+"BC547 transistor","Amplifies weak AC signal detected by antenna to drive output indicators",3,0.20,"https://makerbazar.in/products/bcxxx-general-purpose-transistors-to92?variant=46255877226736","MAKER BAZAR"
+"1M Ohm 1/4W Resistor Pack","Used as biasing resistor to stabilize transistor operation and reduce noise",1,0.16,"https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1-to-999ohm?variant=46167697293552","MAKER BAZAR"
+"custom pcb ","to connect all components",1,2.00,"https://cart.jlcpcb.com/shopcart/cart/","JLCPCB"
