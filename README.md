@@ -14,6 +14,7 @@ i made a ac line detector from some bc547 transistor a buzzer some . I build thi
 | BC547 Transistor | Amplifies weak AC signal to drive indicators | 3 | $0.20 | Maker Bazar |
 | 1MΩ 1/4W Resistor | Biasing resistor for transistor stability | 1 | $0.16 | Maker Bazar |
 | Custom PCB | Connects all components together | 1 | $2.00 | JLCPCB |
+|delivery charge||2|$8.66||
 -------------------------------------------------------------
 
 
