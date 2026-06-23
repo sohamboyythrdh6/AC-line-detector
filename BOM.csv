@@ -7,3 +7,4 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "BC547 transistor","Amplifies weak AC signal detected by antenna to drive output indicators",3,0.20,"https://makerbazar.in/products/bcxxx-general-purpose-transistors-to92?variant=46255877226736","MAKER BAZAR"
 "1M Ohm 1/4W Resistor Pack","Used as biasing resistor to stabilize transistor operation and reduce noise",1,0.16,"https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1-to-999ohm?variant=46167697293552","MAKER BAZAR"
 "custom pcb ","to connect all components",1,2.00,"https://cart.jlcpcb.com/shopcart/cart/","JLCPCB"
+delivery charges,,2,8.66,,
